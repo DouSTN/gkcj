@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#修改 *json文件存放绝对路径* 和 *短信发送脚本存放绝对路径* 即可使用
 
 import simplejson as json
 import os
